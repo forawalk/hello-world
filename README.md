@@ -1,2 +1,5 @@
 # hello-world
-just begin
+
+Hi Humans!
+
+新人到此，请多照顾...
